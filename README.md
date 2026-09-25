@@ -473,6 +473,42 @@ Summarizes:
 
 ---
 
+## 🖥️ Streamlit Application
+
+The project includes an interactive Streamlit application that brings together the classification model, clustering model, and business insights into a single user-facing interface.
+
+### Dashboard
+
+The dashboard provides an overview of lead volume, conversion performance, lead segments, lead quality, and key conversion signals.
+
+![Sales Lead Intelligence Dashboard](assets/Dashboard_01_Overview.png)
+
+### Lead Conversion Prediction
+
+Users can enter lead, company, engagement, and buying-signal information to estimate the probability of conversion.
+
+![Lead Conversion Prediction](assets/Prediction_03_Result.png)
+
+### Lead Segmentation
+
+The segmentation module identifies whether a lead belongs to the **High-Intent / Highly Engaged** or **Low-Engagement / Nurture** segment.
+
+![Lead Segmentation](assets/Segmentation_02_Result.png)
+
+### Model Performance
+
+The model performance page presents classification metrics, model comparison, confusion matrix results, clustering evaluation, and feature importance.
+
+![Model Performance](assets/Performance_04_Feature_Importance.png)
+
+### Lead Insights
+
+The insights page translates the analytical and machine learning results into practical sales actions.
+
+![Lead Insights](assets/Insights_02_Recommended_Actions.png)
+
+---
+
 # 📁 Project Structure
 
 ```text
