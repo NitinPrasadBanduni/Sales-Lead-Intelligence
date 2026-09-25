@@ -61,27 +61,28 @@ This project addresses these challenges by combining **conversion prediction** w
 Raw Lead Data
       │
       ▼
-Data Cleaning & Preprocessing
-      │
-      ▼
-Exploratory Data Analysis
+Data Cleaning & EDA
       │
       ▼
 Feature Engineering
       │
-      ├──────────────────────┐
-      ▼                      ▼
-Classification           Clustering
-      │                      │
-      ▼                      ▼
-Conversion Prediction   Lead Segmentation
-      │                      │
-      └──────────┬───────────┘
-                 ▼
-        Business Insights
-                 │
-                 ▼
-       Streamlit Application
+      ├───────────────┐
+      ▼               ▼
+Classification     Clustering
+      │               │
+      ▼               ▼
+Conversion        Lead Segments
+Prediction            │
+      │               │
+      └───────┬───────┘
+              ▼
+      Business Insights
+              │
+              ▼
+      Streamlit Application
+              │
+              ▼
+      GitHub + Cloud Deployment
 ```
 
 ---
