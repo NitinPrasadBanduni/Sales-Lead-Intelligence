@@ -14,6 +14,16 @@ The solution focuses on two complementary machine learning problems:
 
 - **Lead Conversion Prediction** — Predict whether a lead is likely to convert.
 - **Lead Segmentation** — Group leads into meaningful behavioral segments based on engagement and buying characteristics.
+  
+---
+
+## 🚀 Live Application
+
+Explore the interactive **Sales Lead Intelligence** application:
+
+👉 **[Open Live Streamlit App](https://sales-lead-intelligence-e2tsbvdrap6mh7rs93ocdt.streamlit.app/)**
+
+The application provides interactive lead conversion prediction, lead segmentation, model performance evaluation, and business insights.
 
 ---
 
